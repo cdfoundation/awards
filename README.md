@@ -30,7 +30,7 @@ Each project conducts its own selection process for their Most Valuable Contribu
 
 #### Most Valuable Project Contributors
 * CDEvents: [Mauricio Salatino @salaboy](https://twitter.com/salaboy)
-* Jenkins:[Basil Crow](https://twitter.com/bcrow)
+* Jenkins: [Basil Crow](https://twitter.com/bcrow)
 * Jenkins X: [Ankit D. Mohapatra](https://twitter.com/ankitmoh123)
 * Ortelius: [Brad McCoy](https://twitter.com/bradmccoydev)
 * Screwdriver: Tiffany Kyi
@@ -44,6 +44,8 @@ Each project conducts its own selection process for their Most Valuable Contribu
 #### Jenkins Most Valuable Advocate
 * [Gavin Mogan](https://twitter.com/halkeye)
  
+--- 
+
 ### 2021 Winners
 #### Top CDF Ambassador
 * [Garima Bajpai](https://twitter.com/bajpaigarima1)
