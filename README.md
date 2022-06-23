@@ -12,6 +12,38 @@ We traditionally have the following awards, awarded at our annual cdCon event:
 Each project conducts its own selection process for their Most Valuable Contributor Award. Jenkins has three awards due to its graduated status and project award history.
 
 ## Awarded
+### 2022 Winners
+#### Top CDF Ambassador
+* [Garima Bajpai](https://twitter.com/bajpaigarima1)
+
+#### Top CDF Contributor
+* [Andrea Frittoli](https://twitter.com/blackchip76)
+
+#### Top Doc(umenter)
+* [Oleg Nenashev](https://twitter.com/oleg_nenashev)
+
+#### Continuous Enthusiast
+* [Darin Pope](https://twitter.com/DarinPope)
+
+#### Top CDF End User
+* [Ericsson](https://twitter.com/ericsson)
+
+#### Most Valuable Project Contributors
+* CDEvents: [Mauricio Salatino @salaboy](https://twitter.com/salaboy)
+* Jenkins:[Basil Crow](https://twitter.com/bcrow)
+* Jenkins X: [Ankit D. Mohapatra](https://twitter.com/ankitmoh123)
+* Ortelius: [Brad McCoy](https://twitter.com/bradmccoydev)
+* Screwdriver: Tiffany Kyi
+* Shipwright: [Sascha Schwarze](https://twitter.com/sascha_schwarze)
+* Spinnaker: Matt Gogerly
+* Tekton: [Vincent Demeester](https://twitter.com/vdemeest)
+
+#### Jenkins Security MVP
+* [Wadeck Follonier](https://twitter.com/wadeckfollonier)
+
+#### Jenkins Most Valuable Advocate
+* [Gavin Mogan](https://twitter.com/halkeye)
+ 
 ### 2021 Winners
 #### Top CDF Ambassador
 * [Garima Bajpai](https://twitter.com/bajpaigarima1)
@@ -38,4 +70,3 @@ Each project conducts its own selection process for their Most Valuable Contribu
 
 #### Jenkins Most Valuable Advocate
 * [Oleg Nenashev](https://twitter.com/oleg_nenashev)
-
